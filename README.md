@@ -14,7 +14,7 @@ This project is a simple web application that generates random passwords. It is 
 - **Responsive Design**: The web page is styled to be responsive and visually appealing.
 
 ## Go Live
-- Go ahead ahead and generate random passwords [here](https://pass-word-creator.netlify.app/){:target="_blank"}
+- Go ahead ahead and generate random passwords <a href="https://pass-word-creator.netlify.app/" target="_blank">here</a>
 
 ![image](https://github.com/user-attachments/assets/5a09202a-42ca-4fce-af76-dcbd78b82771)
 
